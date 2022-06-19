@@ -42,6 +42,14 @@ I am using the following types for the fields.
 <!-- {Describe the tools that you used to develop the software}
 
 {Describe the programming language that you used and any libraries.} -->
+* Virtual Enviroment
+* Python
+* Django
+* Pip install
+* Brew 
+
+
+
 
 
 # Useful Websites
@@ -50,8 +58,7 @@ I am using the following types for the fields.
 * [W# SQL Tutorial](https://www.w3schools.com/sql/)
 
 <!-- {Make a list of websites that you found helpful in this project} -->
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+
 
 # Future Work
 <!-- 
