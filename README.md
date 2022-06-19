@@ -29,6 +29,7 @@ In Django the database is called a model. The model is a signe definitive source
 * Complete
 * Created
 * User
+
 I am using the following types for the fields. 
 * CharField
 * Text Field
